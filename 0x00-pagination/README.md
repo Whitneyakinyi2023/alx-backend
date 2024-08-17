@@ -1,5 +1,3 @@
-Here's a detailed README that covers the key concepts of pagination as outlined:
-
 ---
 
 # Pagination Concepts
