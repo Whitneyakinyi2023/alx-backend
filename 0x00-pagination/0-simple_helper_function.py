@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+"""Simple implementation ofpagination fiction"""
+
+
 def index_range(page: int, page_size: int) -> tuple:
     """
     Returns a tuple of size two containing a start index and an end index
