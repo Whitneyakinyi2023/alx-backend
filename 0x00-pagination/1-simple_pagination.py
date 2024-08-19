@@ -1,4 +1,4 @@
-#!/usr/bin/env pytgon3
+#!/usr/bin/env python3
 """Imported  function from previous function"""
 
 
